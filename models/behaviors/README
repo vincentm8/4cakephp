@@ -7,10 +7,6 @@
  * 
  * This is useful to track who created records, and the last user that has changed them
  *
- * @package behaviors
- * @author Daniel Vecchiato
- * @version 1.0
- * @date 24/02/2009
- * @copyright http://www.4webby.com
- * @licence MIT
+ * Originally created by Daniel Vecchiato.
+ * Modified to allow binding/unbinding of models Creator and Modifier
  **/
